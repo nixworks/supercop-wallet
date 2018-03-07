@@ -1,2 +1,2 @@
-# supercop-wallet
+# supercop wallet
 ( U+6666 )
